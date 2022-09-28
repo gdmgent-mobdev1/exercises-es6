@@ -32,6 +32,7 @@ Simulate a deliveroo delivery
 4: Eating it takes 3 seconds
 
 Use setTimeout to simulate this delivery:
+
 - use chaining Promises with the then() syntax
 - try creating the Promises with the async/await function
 - use Promises.all to simulate all the promises at once
