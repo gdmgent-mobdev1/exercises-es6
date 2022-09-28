@@ -5,8 +5,8 @@
 
 - Make a function that takes in a single parameter
 and returns a new promise. 
-using setTimeout,
-- after 500 milliseconds, the promise will either
+
+- using setTimeout, after 500 milliseconds, the promise will either
 resolve or reject. 
 - If the input is a string,
 the promise resolves with that same string
