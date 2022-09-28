@@ -17,9 +17,9 @@ call the function delayedUpperCase
 ## async/await
 
 
-Create an async function that will wait until the delayedUpperCase from exercise 1 is done
-The async paramater takes the argument that we will pass in delayedUpperCase
-Don't forget to do error handling!
+- Create an async function that will wait until the delayedUpperCase from exercise 1 is done
+- The async paramater takes the argument that we will pass in delayedUpperCase
+- Don't forget to do error handling!
 
 
 ## Simulate Deliveroo
